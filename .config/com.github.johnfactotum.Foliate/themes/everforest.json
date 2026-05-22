@@ -1,0 +1,5 @@
+{
+  "label": "Everforest",
+  "light": { "fg": "#2d353b", "bg": "#f2efdf", "link": "#7fbbb3" },
+  "dark":  { "fg": "#d3c6aa", "bg": "#2d353b", "link": "#7fbbb3" }
+}

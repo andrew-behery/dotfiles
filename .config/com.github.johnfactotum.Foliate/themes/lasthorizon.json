@@ -1,0 +1,5 @@
+{
+  "label": "Lasthorizon",
+  "light": { "fg": "#0c0b0c", "bg": "#faf9f8", "link": "#b59790" },
+  "dark":  { "fg": "#FAFCFB", "bg": "#0c0b0c", "link": "#b59790" }
+}

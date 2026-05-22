@@ -1,0 +1,5 @@
+{
+  "label": "Nord",
+  "light": { "fg": "#2e3440", "bg": "#eceff4", "link": "#81a1c1" },
+  "dark":  { "fg": "#d8dee9", "bg": "#2e3440", "link": "#81a1c1" }
+}

@@ -1,0 +1,5 @@
+{
+  "label": "Kanagawa",
+  "light": { "fg": "#1f1f28", "bg": "#f2ecbc", "link": "#7e9cd8" },
+  "dark":  { "fg": "#dcd7ba", "bg": "#1f1f28", "link": "#7e9cd8" }
+}

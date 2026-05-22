@@ -1,0 +1,5 @@
+{
+  "label": "Ristretto",
+  "light": { "fg": "#2c2525", "bg": "#faf0ee", "link": "#f38d70" },
+  "dark":  { "fg": "#e6d9db", "bg": "#2c2525", "link": "#f38d70" }
+}

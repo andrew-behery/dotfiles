@@ -1,0 +1,5 @@
+{
+  "label": "Flexoki Light",
+  "light": { "fg": "#100F0F", "bg": "#FFFCF0", "link": "#205EA6" },
+  "dark":  { "fg": "#CECDC3", "bg": "#100F0F", "link": "#4385BE" }
+}

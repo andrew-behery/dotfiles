@@ -1,0 +1,5 @@
+{
+  "label": "Ethereal",
+  "light": { "fg": "#060B1E", "bg": "#f0efff", "link": "#7d82d9" },
+  "dark":  { "fg": "#ffcead", "bg": "#060B1E", "link": "#7d82d9" }
+}

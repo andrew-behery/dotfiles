@@ -1,0 +1,5 @@
+{
+  "label": "Lumon",
+  "light": { "fg": "#16242d", "bg": "#e8f4f9", "link": "#4d9ed3" },
+  "dark":  { "fg": "#d6e2ee", "bg": "#16242d", "link": "#8bc9eb" }
+}

@@ -1,0 +1,5 @@
+{
+  "label": "Rose Pine",
+  "light": { "fg": "#575279", "bg": "#faf4ed", "link": "#56949f" },
+  "dark":  { "fg": "#e0def4", "bg": "#191724", "link": "#c4a7e7" }
+}

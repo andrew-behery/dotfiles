@@ -1,0 +1,5 @@
+{
+  "label": "Gruvbox",
+  "light": { "fg": "#3c3836", "bg": "#fbf1c7", "link": "#7daea3" },
+  "dark":  { "fg": "#d4be98", "bg": "#282828", "link": "#7daea3" }
+}

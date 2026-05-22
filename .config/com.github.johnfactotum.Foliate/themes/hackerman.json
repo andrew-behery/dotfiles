@@ -1,0 +1,5 @@
+{
+  "label": "Hackerman",
+  "light": { "fg": "#0B0C16", "bg": "#e8fff0", "link": "#50f872" },
+  "dark":  { "fg": "#ddf7ff", "bg": "#0B0C16", "link": "#82FB9C" }
+}

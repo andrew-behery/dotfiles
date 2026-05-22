@@ -1,0 +1,30 @@
+#!/bin/bash
+THEME_NAME="$1"
+
+declare -A FOLIATE_THEMES=(
+  ["catppuccin"]="catppuccin.json"
+  ["catppuccin-latte"]="catppuccin-latte.json"
+  ["ethereal"]="ethereal.json"
+  ["everforest"]="everforest.json"
+  ["flexoki-light"]="flexoki-light.json"
+  ["gruvbox"]="gruvbox.json"
+  ["hackerman"]="hackerman.json"
+  ["kanagawa"]="kanagawa.json"
+  ["lasthorizon"]="lasthorizon.json"
+  ["lumon"]="lumon.json"
+  ["matte-black"]="matte-black.json"
+  ["miasma"]="miasma.json"
+  ["nord"]="nord.json"
+  ["osaka-jade"]="osaka-jade.json"
+  ["retro-82"]="retro-82.json"
+  ["ristretto"]="ristretto.json"
+  ["rose-pine"]="rose-pine.json"
+  ["tokyo-night"]="tokyo-night.json"
+  ["vantablack"]="vantablack.json"
+  ["white"]="white.json"
+)
+
+FOLIATE_THEME="${FOLIATE_THEMES[$THEME_NAME]}"
+if [[ -n "$FOLIATE_THEME" ]]; then
+  dconf write /com/github/johnfactotum/Foliate/viewer/view/theme "'$FOLIATE_THEME'"
+fi

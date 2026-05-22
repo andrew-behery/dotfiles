@@ -1,0 +1,5 @@
+{
+  "label": "White",
+  "light": { "fg": "#000000", "bg": "#ffffff", "link": "#6e6e6e" },
+  "dark":  { "fg": "#ffffff", "bg": "#111111", "link": "#6e6e6e" }
+}

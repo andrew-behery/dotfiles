@@ -1,0 +1,5 @@
+{
+  "label": "Miasma",
+  "light": { "fg": "#222222", "bg": "#f0ede0", "link": "#78824b" },
+  "dark":  { "fg": "#c2c2b0", "bg": "#222222", "link": "#78824b" }
+}

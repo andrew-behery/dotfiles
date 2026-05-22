@@ -1,0 +1,5 @@
+{
+  "label": "Matte Black",
+  "light": { "fg": "#121212", "bg": "#f5f5f5", "link": "#e68e0d" },
+  "dark":  { "fg": "#bebebe", "bg": "#121212", "link": "#e68e0d" }
+}

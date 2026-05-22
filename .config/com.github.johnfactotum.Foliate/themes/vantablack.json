@@ -1,0 +1,5 @@
+{
+  "label": "Vantablack",
+  "light": { "fg": "#000000", "bg": "#f0f0f0", "link": "#8d8d8d" },
+  "dark":  { "fg": "#ffffff", "bg": "#000000", "link": "#8d8d8d" }
+}

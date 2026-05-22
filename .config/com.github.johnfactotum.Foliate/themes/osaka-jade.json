@@ -1,0 +1,5 @@
+{
+  "label": "Osaka Jade",
+  "light": { "fg": "#111c18", "bg": "#e8f5ee", "link": "#509475" },
+  "dark":  { "fg": "#C1C497", "bg": "#111c18", "link": "#509475" }
+}

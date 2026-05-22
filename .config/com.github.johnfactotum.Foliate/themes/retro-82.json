@@ -1,0 +1,5 @@
+{
+  "label": "Retro 82",
+  "light": { "fg": "#05182e", "bg": "#fff8e8", "link": "#faa968" },
+  "dark":  { "fg": "#f6dcac", "bg": "#05182e", "link": "#faa968" }
+}
