@@ -20,9 +20,6 @@ fi
 echo "==> Installing packages..."
 sudo pacman -S --needed - < "$HOME/.dotfiles-meta/packages.txt"
 
-echo "==> Installing Lasthorizon theme..."
-omarchy theme install https://github.com/HANCORE-linux/omarchy-lasthorizon-theme
-
 echo "==> Restoring dconf settings..."
 dconf load / < "$HOME/.dotfiles-meta/dconf.ini"
 
